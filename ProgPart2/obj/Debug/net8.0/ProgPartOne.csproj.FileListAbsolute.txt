@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\bin\Debug\net8.0\ProgPartOne.exe
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\bin\Debug\net8.0\ProgPartOne.deps.json
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\bin\Debug\net8.0\ProgPartOne.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\bin\Debug\net8.0\ProgPartOne.dll
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\bin\Debug\net8.0\ProgPartOne.pdb
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.dll
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\refint\ProgPartOne.dll
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.pdb
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ProgPartOne.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\ProgPartOne\obj\Debug\net8.0\ref\ProgPartOne.dll
