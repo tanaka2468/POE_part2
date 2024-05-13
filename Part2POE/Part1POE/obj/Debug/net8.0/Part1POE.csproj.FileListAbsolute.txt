@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\Part1POE\bin\Debug\net8.0\Part1POE.exe
+C:\Users\RC_Student_lab\source\repos\Part1POE\bin\Debug\net8.0\Part1POE.deps.json
+C:\Users\RC_Student_lab\source\repos\Part1POE\bin\Debug\net8.0\Part1POE.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\Part1POE\bin\Debug\net8.0\Part1POE.dll
+C:\Users\RC_Student_lab\source\repos\Part1POE\bin\Debug\net8.0\Part1POE.pdb
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.dll
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\refint\Part1POE.dll
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.pdb
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\Part1POE.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\Part1POE\obj\Debug\net8.0\ref\Part1POE.dll
